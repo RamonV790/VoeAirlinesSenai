@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\VoeAirlines-Senai\\VoeAirlinesSenai\\VoeAirlinesSenai.csproj": {}
+    "C:\\Users\\Aluno\\desktop\\VoeAirlinesSenai\\VoeAirlinesSenai\\VoeAirlinesSenai.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\VoeAirlines-Senai\\VoeAirlinesSenai\\VoeAirlinesSenai.csproj": {
+    "C:\\Users\\Aluno\\desktop\\VoeAirlinesSenai\\VoeAirlinesSenai\\VoeAirlinesSenai.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\VoeAirlines-Senai\\VoeAirlinesSenai\\VoeAirlinesSenai.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\desktop\\VoeAirlinesSenai\\VoeAirlinesSenai\\VoeAirlinesSenai.csproj",
         "projectName": "VoeAirlinesSenai",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\VoeAirlines-Senai\\VoeAirlinesSenai\\VoeAirlinesSenai.csproj",
+        "projectPath": "C:\\Users\\Aluno\\desktop\\VoeAirlinesSenai\\VoeAirlinesSenai\\VoeAirlinesSenai.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\VoeAirlines-Senai\\VoeAirlinesSenai\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\desktop\\VoeAirlinesSenai\\VoeAirlinesSenai\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,8 +67,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -80,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
